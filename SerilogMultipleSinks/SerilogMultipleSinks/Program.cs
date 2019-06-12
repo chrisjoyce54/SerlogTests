@@ -25,7 +25,7 @@ namespace SerilogMultipleSinks
 			{
 				var file = File.CreateText(Path.Combine(Configuration.GetSection("DataFolder").Value, "self2.log"));
 				Serilog.Debugging.SelfLog.Enable(TextWriter.Synchronized(file));
-				Log.Information("PSCU Listener service starting ...");
+				Log.Information(" service starting ...");
 				Log.Verbose("Configuring Logger");
 
 				Log.Logger = new LoggerConfiguration()
