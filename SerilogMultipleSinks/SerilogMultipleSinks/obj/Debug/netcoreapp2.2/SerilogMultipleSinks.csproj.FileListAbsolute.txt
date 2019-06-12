@@ -1,0 +1,14 @@
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\SerilogMultipleSinks.deps.json
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\SerilogMultipleSinks.runtimeconfig.json
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\SerilogMultipleSinks.runtimeconfig.dev.json
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\SerilogMultipleSinks.dll
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.csproj.CoreCompileInputs.cache
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.RazorAssemblyInfo.cache
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.RazorAssemblyInfo.cs
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.AssemblyInfoInputs.cache
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.AssemblyInfo.cs
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.RazorTargetAssemblyInfo.cache
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\SerilogMultipleSinks.pdb
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.dll
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\obj\Debug\netcoreapp2.2\SerilogMultipleSinks.pdb
+C:\dev\jx\Sandbox\Chris\SerilogMultipleSinks\SerilogMultipleSinks\bin\Debug\netcoreapp2.2\appsettings.json
